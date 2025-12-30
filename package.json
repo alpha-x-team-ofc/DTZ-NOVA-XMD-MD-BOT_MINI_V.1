@@ -12,7 +12,7 @@
     "express": "^5.2.1",
     "fs-extra": "^11.3.3",
     "pino": "^10.1.0",
-    "jimp": "^1.6.0",
+    "jimp": "^0.16.13",
     "@octokit/rest": "^22.0.1",
     "child_process": "^1.0.2",
     "denethdev-ytmp3":"1.0.3",
