@@ -22,7 +22,7 @@
     "node-fetch": "3.3.2",
     "sharp":"0.34.5",
     "path": "^0.12.7",
-    "fs": "11.3.3",
+    "fs": "0.0.1-security",
     "file-type": "21.2.0",
     "axios": "^1.13.2",
     "moment-timezone": "^0.6.0"
